@@ -1,0 +1,28 @@
+# Customer Churn Prediction using Machine Learning
+
+## Objective
+Predict whether a telecom customer will churn using machine learning.
+
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Scikit-Learn
+- XGBoost
+- Matplotlib
+- Seaborn
+
+## Models Used
+- Logistic Regression
+- Random Forest
+- XGBoost
+
+## Results
+- Achieved around 85-89% accuracy.
+- Identified important factors affecting customer churn.
+
+## Dataset
+IBM Telco Customer Churn Dataset
+
+## Author
+Mahavishnu T
